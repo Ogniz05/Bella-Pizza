@@ -26,9 +26,9 @@ L’obiettivo principale del progetto è creare un’app semplice e funzionale c
 
 # 🧩 Tecnologie utilizzate
 
-React Native
+-React Native
 
-Expo
+-Expo
 
-React Navigation
+-React Navigation
 
