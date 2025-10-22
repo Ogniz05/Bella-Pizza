@@ -28,10 +28,16 @@ L’obiettivo principale del progetto è creare un’app semplice e funzionale c
 
 # 📋 Casi d'uso principali di Bella Pizza 🍕
 1️⃣ Autenticazione: Il cliente accede all'app tramite login. Senza autenticazione non può inserire i prodotti nel carrello.
- #                  Alternative: Recupero password o messaggio di errore se credenziali errate.
+                   Alternative: Recupero password o messaggio di errore se credenziali errate.
                    
 2️⃣ Navigazione tra le schermate: il cliente naviga tra le diverse sezioni dell’app usando la barra inferiore (Bottom Tab Bar) o la navigazione a stack. 
-# Alternative : L’utente può tornare alla pagine principale tramite lo stack navigation.
+Alternative : L’utente può tornare alla pagine principale tramite lo stack navigation.
+
+3️⃣ Visualizzazione menù e prodotti : Il cliente esplora i menù disponibili e vede i dettagli dei prodotti.
+Estensione: Possibilità di filtrare i prodotti o cercare per nome.
+
+5️⃣ Logout / Gestione sessione: L’utente può uscire dall’app, che resetta lo stack di navigazione per proteggere la sessione.
+<img width="1917" height="210" alt="uml" src="https://github.com/user-attachments/assets/02d1d774-e520-4ec3-8fe5-4d2cf705f1f2" />
 
 # 🧩 Tecnologie utilizzate
 
