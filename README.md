@@ -1,9 +1,5 @@
 # 🌮 Los Cerignola
 
-<p align="center">
-  <img src="./assets/logo.png" alt="Los Cerignola Logo" width="180" />
-</p>
-
 **Los Cerignola** è un’app sviluppata con **React Native (Expo)** che permette di esplorare in modo intuitivo i menù disponibili e visualizzare i prodotti offerti da una pizzeria.
 
 ---
@@ -14,30 +10,17 @@
 
 | Ruolo | Colore | Codice |
 |:------|:--------|:-------|
-| **Primario** | 🟡 Giallo Solare | `#FFD60A` |
-| **Secondario** | 🟨 Giallo Oro | `#FFC300` |
-| **Accento** | 🔵 Blu Cerignola | `#004AAD` |
+| **Primario** | 🟡 Giallo | `#FFD60A` |
+| **Secondario** | 🔵 Blu | `#004AAD` |
 | **Sfondo Chiaro** | ⚪ Crema | `#FFF7E0` |
 | **Testo / Contrasto** | ⚫ Blu Notte | `#001D3D` |
-
-<p align="center">
-  <img src="https://dummyimage.com/600x80/fff/000&text=+ +++++++++++++++" alt="color separator" />
-</p>
-
-> 💡 Il **giallo** richiama il calore e la bontà della pizza,  
-> mentre il **blu** rappresenta fiducia e professionalità — perfetto equilibrio per un brand accogliente ma moderno.
 
 ---
 
 ## 🐔 Mascotte — “Cerigno”
 
-<p align="center">
-  <img src="./assets/mascotte.png" alt="Cerigno Mascotte" width="180" />
-</p>
-
 **Cerigno** è la mascotte ufficiale di *Los Cerignola*:  
 un simpatico **pollo pizzaiolo** con cappello da chef, sempre pronto a sfornare pizze perfette! 🍕🔥  
-La mascotte incarna i valori del brand: **energia**, **calore**, **artigianalità** e **ospitalità**.
 
 ---
 
